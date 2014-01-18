@@ -12,5 +12,10 @@ namespace TestApp1
         {
             // here we will do something amazing
         }
+
+		void newFunctionality()
+		{
+			
+		}
     }
 }

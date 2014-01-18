@@ -10,7 +10,7 @@ namespace TestApp1
     {
         static void Main(string[] args)
         {
-            // here we will do something
+            // here we will do something amazing
         }
     }
 }
